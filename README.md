@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AbhiAhlawat/AbhiAhlawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently building XpressBites and Epidise 
 - 🌱 I’m currently learning Machine Learning and Image Processing
 - 👯 I’m looking to collaborate on Image Processing and UI Design
